@@ -1,5 +1,5 @@
 # Python reader #
-**Python reader created by Weezity.**
+**This was dumb**
 
 Simple CSV reader that reads files given out by a user/machine and puts into arrays for computer for ease of access. 
 
